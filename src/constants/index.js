@@ -136,7 +136,7 @@ const experiences = [
       iconBg: "#383E56",
       date: "  2018 (Education) ",
       points: [
-        "Percentage: 92.2% ",
+        "Percentage: 91.3% ",
         "Science",
         "Mathematics",
         "Social Science",
@@ -150,7 +150,7 @@ const experiences = [
       iconBg: "#E6DEDD",
       date: "2020 (Education)",
       points: [
-        "Percentage: 86%",
+        "Percentage: 84.2%",
         "Physics", 
         "Chemistry", 
         "Mathematics",
@@ -162,15 +162,15 @@ const experiences = [
     company_name: "Jaypee Institute of Information Technology",
     icon: web,
     iconBg: "#383E56",
-    date: " 2021 - Present (Education)",
+    date: " 2021 - 2025(Education)",
     points: [
-      "CGPA: 7.9",
+      "CGPA: 7.7",
       "Programming (C++)",
       "Data Structure and Algorithms",
-      "Software Development",
+      "Database management system",
       "Object Oriented Programming",
-      "Information Theory and Applications",
-      "Mobile Communication",
+      "Operating system",
+      "Computer Networks",
     ],
   },
   {
