@@ -63,7 +63,7 @@ const Experience = () => {
         <p className={styles.sectionSubText}>Education</p>
         <h2 className={styles.sectionHeadText}>Work Experience.</h2>
       </motion.div>
-      <div className='mt-20 flex flex-col'>
+      <div className='mt-32 flex flex-col'>
         <VerticalTimeline>
           {experiences.map((experience, index) => (
             <ExperienceCard
